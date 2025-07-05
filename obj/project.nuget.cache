@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "8CLGVKokOXU=",
+  "success": true,
+  "projectFilePath": "E:\\cognizant\\ePaint\\server\\server.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.6\\microsoft.aspnetcore.openapi.9.0.6.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
